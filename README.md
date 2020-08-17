@@ -1,4 +1,4 @@
-### Hi there, I'm Syed NomanulHasan - [NomaanulHasan.com][website] 👋
+## Hi there, I'm Syed NomanulHasan - [NomaanulHasan.com][website] 👋
 
 [![Website](https://img.shields.io/website?label=NomaanulHasan.com&style=for-the-badge&url=https%3A%2F%2Fnomaanulhasan.com)](https://nomaanulhasan.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/NomaanulHasan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNomaanulHasan&screen_name=NomaanulHasan)
@@ -43,7 +43,7 @@
 
 <br />
 
-###:zap: Github Stats
+### :zap: Github Stats
   
 ![NomaanulHasan's github stats](https://github-readme-stats.vercel.app/api?username=nomaanulhasan&show_icons=true)
 
