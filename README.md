@@ -5,7 +5,7 @@
 
 ## I'm a Front-End UI Developer!
 
-- 🔭 I'm currently working on [my portfolio website's ReactJs version with GatsbyJs] [website]!
+- 🔭 I'm currently working on [my portfolio website's ReactJs version with GatsbyJs][website]!
 - 🌱 I’m currently learning ReactJs ji:ReactJs
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -43,11 +43,9 @@
 
 <br />
 
-<details>
-  <summary>:zap: Github Stats</summary>
+###:zap: Github Stats
   
-  ![NomaanulHasan's github stats](https://github-readme-stats.vercel.app/api?username=nomaanulhasan&show_icons=true)
-</details>
+![NomaanulHasan's github stats](https://github-readme-stats.vercel.app/api?username=nomaanulhasan&show_icons=true)
 
 [website]: https://NomaanulHasan.com
 [twitter]: https://twitter.com/NomaanulHasan
