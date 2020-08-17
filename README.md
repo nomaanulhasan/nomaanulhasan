@@ -45,7 +45,9 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="NomaanulHasan's Github Stats" src="https://github-readme-stats.nomaanulhasan.vercel.app/api?username=NomaanulHasan&show_icons=true&hide_border=true" />
+  <!--img align="left" alt="NomaanulHasan's Github Stats" src="![NomaanulHasan's github stats](https://github-readme-stats.vercel.app/api?username=nomaanulhasan&show_icons=true)" /-->
+  
+  ![NomaanulHasan's github stats](https://github-readme-stats.vercel.app/api?username=nomaanulhasan&show_icons=true)
 
 </details>
 
