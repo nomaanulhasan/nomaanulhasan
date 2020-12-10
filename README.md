@@ -6,9 +6,9 @@
 ## I'm a Front-End UI Developer!
 
 - 🌱 I’m currently learning ReactJs in depth
-- 🔭 Created [my own portfolio website's ReactJs version with GatsbyJs][website]!
+- 🔭 Created [my portfolio website with ReactJs & GatsbyJs][website]!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
