@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomaanulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="nomaanulhasan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nomaanulhasan" target="blank"><img src="https://img.shields.io/twitter/follow/nomaanulhasan?logo=twitter&style=for-the-badge" alt="nomaanulhasan" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/nomaanulhasan" target="blank"><img src="https://img.shields.io/twitter/follow/nomaanulhasan?logo=twitter&style=for-the-badge" alt="nomaanulhasan" /></a> </p> -->
 
 - 🔭 I’m currently working on [Online Chicken Ordering app. (for local business)](https://chicken-shop.vercel.app/)
 
