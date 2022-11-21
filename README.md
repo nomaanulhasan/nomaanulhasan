@@ -13,11 +13,11 @@
 
 - 👯 I’m looking to collaborate with other developers
 
-- 👨‍💻 All of my projects are available at (Currently Under Maintenance) [http://nomaanulhasan.com](http://nomaanulhasan.com)
+- 👨‍💻 All of my projects are available at [http://nomaanulhasan.com](http://nomaanulhasan.com) (Currently Under Maintenance)
 
 - 💬 Ask me about **HTML, CSS, JS, React, Redux, Formik, React Hook Form, Yup, Material UI, Sass/SCSS, Bootstrap, Tailwind etc.**
 
-- 📄 Know about my experiences (Currently Under Maintenance) [http://nomaanulhasan.com](http://nomaanulhasan.com)
+- 📄 Know about my experiences [http://nomaanulhasan.com](http://nomaanulhasan.com) (Currently Under Maintenance) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
