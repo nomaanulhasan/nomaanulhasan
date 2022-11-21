@@ -40,6 +40,5 @@
 
 <hr />
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p>
-<br />
-<p align="center"> <a href="https://github.com/nomaanulhasan"><img src="https://github-profile-trophy.vercel.app/?username=nomaanulhasan&margin-w=10&margin-h=10&theme=onedark" alt="nomaanulhasan" /></a> </p>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br />
+<p align="center"> <a href="https://github.com/nomaanulhasan"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=nomaanulhasan&margin-w=10&margin-h=10&theme=onedark" alt="nomaanulhasan" /></a> </p>
