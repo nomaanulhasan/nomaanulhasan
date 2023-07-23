@@ -5,17 +5,17 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/nomaanulhasan" target="blank"><img src="https://img.shields.io/twitter/follow/nomaanulhasan?logo=twitter&style=for-the-badge" alt="nomaanulhasan" /></a> </p> -->
 
-- 🔭 I’m currently working on [Online Chicken Ordering app. (for local business)](https://chicken-shop.vercel.app/)
+<!-- - 🔭 I’m currently working on [Online Chicken Ordering app. (for local business)](https://chicken-shop.vercel.app/)
 
-- 🌱 I’m currently learning **NextJs (incl. MongoDB, Mongoose etc.)**
+- 🌱 I’m currently learning **NextJs (incl. MongoDB, Mongoose etc.)** -->
+
+- 👨‍💻 Know about my experiences and projects at [http://nomaanulhasan.com](http://nomaanulhasan.com)
 
 - 👯 I’m looking to collaborate with other developers
 
-- 👨‍💻 All of my projects are available at [http://nomaanulhasan.com](http://nomaanulhasan.com)
-
 - 💬 Ask me about **HTML, CSS, JS, React, Redux, Formik, React Hook Form, Yup, Material UI, Sass/SCSS, Bootstrap, Tailwind etc.**
 
-- 📄 Know about my experiences [http://nomaanulhasan.com](http://nomaanulhasan.com)
+<!-- - 📄 Know about my experiences [http://nomaanulhasan.com](http://nomaanulhasan.com) -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
