@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate with other developers
 
-- 💬 Ask me about **HTML, CSS, JS, React, Redux, Formik, React Hook Form, Yup, Material UI, Sass/SCSS, Bootstrap, Tailwind etc.**
+- 💬 Ask me about **HTML, CSS, JS, React, NextJs, Redux, Formik, React Hook Form, Yup, Material UI, Sass/SCSS, Bootstrap, Tailwind etc.**
 
 <!-- - 📄 Know about my experiences [http://nomaanulhasan.com](http://nomaanulhasan.com) -->
 
