@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJs (incl. MongoDB, Mongoose etc.)** -->
 
-- 👨‍💻 Know about my experiences and projects at [https://nomaanulhasan.com](https://nomaanulhasan.com)
+- 👨‍💻 Know about my experiences and projects at [https://nomaanulhasan.vercel.app](https://nomaanulhasan.vercel.app)
 
 - 👯 I’m looking to collaborate with other developers
 
